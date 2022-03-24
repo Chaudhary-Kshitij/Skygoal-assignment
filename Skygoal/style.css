@@ -1,0 +1,99 @@
+
+.read-btn{
+    background-color: #EE4248;
+    color: white;
+    box-shadow: 2px 2px 5px grey;
+}
+
+#welcome{
+    background-color: #F7F7F7;
+    padding: 50px 0px;
+}
+
+.circular{
+    border-radius: 100%;
+    width: 60%;
+    margin: 20px;
+}
+
+.media-icon i {
+    color: #EE4348;
+    font-size: 12px;
+    border-radius: 100%;
+    padding: 7px;
+    margin: 8px 5px;
+    width: 25px;
+    box-shadow: 0px 0px 4px grey;
+}
+
+.card{
+    border-radius: 14px;
+    box-shadow: 0px 0px 8px -1px grey !important;
+    margin: 25px;
+}
+
+footer{
+    background-color: #EE4248;
+    color: white;
+    padding: 15px ;
+    font-size: 15px;
+    margin-top: 40px;
+}
+
+.nav-icon a{
+    font-size: 18px;
+    margin: 0px 7px;
+}
+
+section#navigation {
+    padding: 10px;
+    box-shadow: 2px 1px 4px grey;
+}
+
+.mar{
+ margin: 100px 0px;
+}
+
+.heading{
+    font-weight: 700;
+}
+
+.color-text {
+    color: #EE4248;
+    margin-bottom: 25px;
+}
+
+.banner-img{
+    width: 100%;
+}
+
+#welcome h2{
+    margin-bottom: 25px;
+}
+
+#products .row h3{
+    margin: 20px 0px;
+    color: #EE4248;
+} 
+
+#products .col-lg-4 {
+    padding: 0px 17px;
+}
+
+.card-color-text{
+    color: #EE4248;
+}
+
+img.col-lg-4 {
+    height: max-content;
+}
+
+#mobile h5{
+   font-size: medium;
+   font-weight: 700;
+}
+
+#mobile h6{
+    font-size: small;
+    font-weight: 700;
+ }
